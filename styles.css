@@ -1,0 +1,31 @@
+main {
+    margin: 35px 10px;
+    padding: 10px 15px;
+    background: #edece4;
+  }
+  h1, p{
+    text-align: center;
+    margin:auto;
+  }
+  h1{
+    font-size: 3rem;
+  }
+  p{
+    font-size: 1.2em;
+    padding-top: 5px;
+  }
+  #img-div{
+    background: white;
+    padding: 10px;
+    justify-content: center;
+  }
+  #image {
+    display: block;
+    margin: auto;
+    padding: 0 auto;
+    max-width: 100%;
+    justify-content: center;
+  }
+  #img-caption{
+    text-align: center;
+  }
